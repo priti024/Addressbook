@@ -1,5 +1,5 @@
 ---
-- hosts: AWS_server
+- hosts: AWSserver
   become: true
   tasks:
   - name: create container
