@@ -1,2 +1,2 @@
 [AWSserver]
-172.31.0.219 ansible_user=ec2-user
+172.31.11.209 ansible_user=ec2-user
